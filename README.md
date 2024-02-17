@@ -1,4 +1,4 @@
- ### Hi there 👋, my name is Stephan
+### Hi there 👋, my name is Stephan
 #### I am react developer
 ![I am react developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -6,7 +6,7 @@
 
 Skills:  REACT / JS / HTML / CSS
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanjosh&theme=dark&show_icons=true) 
+- 🔭 I’m currently working on this page. 
 
 
 
