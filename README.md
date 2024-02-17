@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @stephanjosh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-stephanjosh/stephanjosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi,
+  I’m Stephan I do am a React developer . I really enjoy learning programming and working with React, javascript, typescript, html and css as well as working with ui designs in figma. Checkout my linkedin https://www.linkedin.com/in/stephan-mwangi-963450278/.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?stephanjosh=anuraghazra&theme=dark&show_icons=true)
