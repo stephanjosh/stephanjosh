@@ -1,4 +1,4 @@
-![Banner](link/to/your/banner/image.png)
+![Banner](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-02-17%20150721.png)
 
 ### Hi there 👋, my name is Stephan
 #### I am react developer
