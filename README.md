@@ -15,6 +15,7 @@ eenshot%202024-03-03%20175139.png)
 
 https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175317.png
 https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175234.png
+https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175350.png
 ### 🔭 I’m currently working on Web development 
 ###🌱 I’m currently learning Typescript 
 
