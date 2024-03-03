@@ -12,6 +12,8 @@ Skills:  REACT / JS / HTML / CSS
 
 
 Certifications:
+
+
 ![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175139.png)
 ![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175827.png)
 ![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175744.png)
