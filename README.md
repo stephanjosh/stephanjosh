@@ -13,15 +13,15 @@ Skills:  REACT / JS / HTML / CSS
 ![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Scr
 eenshot%202024-03-03%20175139.png)
 
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175827.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175744.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175653.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175618.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175532.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175426.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175317.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175234.png
-https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175350.png
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175827.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175744.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175653.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175618.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175532.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175426.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175317.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175234.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175350.png)
 ### 🔭 I’m currently working on Web development 
 ###🌱 I’m currently learning Typescript 
 
