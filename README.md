@@ -10,6 +10,8 @@
 
 Skills:  REACT / JS / HTML / CSS
 
+(https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175139.png)
+
 ### 🔭 I’m currently working on Web development 
 ###🌱 I’m currently learning Typescript 
 
