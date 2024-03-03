@@ -2,6 +2,7 @@
 #### I am react developer
 )
 
+
 👋 Hi, I’m Stephan I am a React developer . I really enjoy learning programming and working with React, javascript, typescript, html and css as well as working with ui designs in figma. Checkout my linkedin https://www.linkedin.com/in/stephan-mwangi-963
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanjosh)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,9 +10,10 @@
 
 Skills:  REACT / JS / HTML / CSS
 
-![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175139.png)
+![Certificate](https://github.com/stephanjosh/stephanjosh/blob/main/Scr
+eenshot%202024-03-03%20175139.png)
 
-
+https://github.com/stephanjosh/stephanjosh/blob/main/Screenshot%202024-03-03%20175234.png
 ### 🔭 I’m currently working on Web development 
 ###🌱 I’m currently learning Typescript 
 
