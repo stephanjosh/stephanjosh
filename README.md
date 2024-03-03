@@ -1,3 +1,5 @@
+![Banner](link/to/your/banner/image.png)
+
 ### Hi there 👋, my name is Stephan
 #### I am react developer
 )
