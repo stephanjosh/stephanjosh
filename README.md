@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=700&lines=React+Native+Developer;AI+%26+Data+Science+Enthusiast;Database+Architecture+Designer;Building+Scalable+Systems)](https://git.io/typing-svg)
 # 💫 About Me:
-<br>Developing React Native applications with location services, SQLite integration, and Google Maps functionality<br>Integrating weather and environmental APIs for agricultural and predictive systems<br>Training and experimenting with AI models using IBM Watson AutoAI and data pipelines<br>Creating statistical dashboards and analytical workflows for research and visualization<br>Tech Stack<br>Frontend: React Native, TypeScript, Tailwind CSS<br>Backend & Databases: SQLite, relational database modeling, API architecture<br>AI & Data: IBM Watson X, Python, machine learning workflows<br>Tools & Platforms: Expo, Google Maps APIs, Git/GitHub<br>Interests<br><br>I’m especially interested in:<br><br>Intelligent systems and AI-powered applications<br>Clean and scalable database design<br>Data visualization and analytics<br>
+<br>Developing React Native applications with location services, SQLite integration, and Google Maps functionality<br>Integrating weather and environmental APIs for agricultural and predictive systems<br>Training and experimenting with AI models using IBM Watson AutoAI and data pipelines<br><br>Creating statistical dashboards and analytical workflows for research and visualization<br><br>Tech Stack<br>Frontend: React Native, TypeScript, Tailwind CSS<br>Backend & Databases: SQLite, relational database modeling, API architecture<br><br>AI & Data: IBM Watson X, Python, machine learning workflows<br><br>Tools & Platforms: Expo, Google Maps APIs, Git/GitHub<br><br>Interests<br><br>I’m especially interested in:<br><br>Intelligent systems and AI-powered applications<br>Clean and scalable database design<br>Data visualization and analytics<br>
 
 
 ## 🌐 Socials:
@@ -19,12 +19,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!--- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=stephanjosh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+-->
+<!--
 [![](https://komarev.com/ghpvc/?username=stephanjosh&icon=4&color=0)](https://visitcount.itsvg.in)
-
+--->
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Stephan) 
 
